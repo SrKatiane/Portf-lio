@@ -1,29 +1,23 @@
-**Use GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🎨 Portfólio Pessoal — Katiane Ribeiro
+Bem-vindo(a) ao meu portfólio! Este projeto foi desenvolvido com o objetivo de apresentar meus principais projetos e habilidades.
 
-## What technologies are used for this project?
+🚀 Deploy
+Acesse o portfólio online através do link:
 
-This project is built with:
+🔗 https://katianeribeiro.netlify.app/
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+🔧 Tecnologias Utilizadas
+Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 
-## How can I deploy this project?
+⚡ Vite — Ferramenta moderna de build extremamente rápida
 
-Simply open [Lovable](https://lovable.dev/projects/a8f5178c-4d39-40ba-a401-1c479c3e3606) and click on Share -> Publish.
+⚛️ React — Biblioteca para construção de interfaces interativas
 
-## Can I connect a custom domain to my Lovable project?
+🛠️ TypeScript — Superset do JavaScript com tipagem estática
 
-Yes, you can!
+🎨 Tailwind CSS — Framework CSS utilitário para criação de layouts rápidos e responsivos
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+🧩 shadcn/ui — Componentes acessíveis, estéticos e prontos para uso
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Desenvolvido por Katiane Ribeiro☕
