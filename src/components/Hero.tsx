@@ -63,7 +63,7 @@ const Hero = () => {
               {/* Developer Image - Aumentada */}
               <div className="relative z-10 animate-float">
                 <img 
-                  src="public\img\2823496 1.png"
+                  src="/img/2823496 1.png"
                   alt="Developer illustration"
                   className="w-80 h-80 lg:w-96 lg:h-96 object-contain"
                 />

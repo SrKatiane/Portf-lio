@@ -94,7 +94,7 @@ const Skills = () => {
                   <img src="https://cdn.simpleicons.org/html5/ff5722" alt="HTML" />
                 </div>
                 <div className="w-18 h-18 glass-effect rounded-xl flex items-center justify-center text-blue-400 text-2xl font-bold animate-float" style={{ animationDelay: '0.5s' }}>
-                  <img src="public\img\css-3.png" alt="CSS" />
+                  <img src="/img/css-3.png" alt="CSS" />
                 </div>
                 <div className="w-18 h-18 glass-effect rounded-xl flex items-center justify-center text-cyan-400 text-2xl font-bold animate-float" style={{ animationDelay: '1s' }}>
                   <img src="https://cdn.simpleicons.org/javascript/f7df1e" alt="JavaScript" />
@@ -105,7 +105,7 @@ const Skills = () => {
                   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" />
                 </div>
                 <div className="w-18 h-18 glass-effect rounded-xl flex items-center justify-center text-yellow-400 text-2xl font-bold animate-float" style={{ animationDelay: '2s' }}>
-                  <img src="public\img\figma.png" alt="Figma" />
+                  <img src="/img/figma.png" alt="Figma" />
                 </div>
                 <div className="w-18 h-18 glass-effect rounded-xl flex items-center justify-center text-green-400 text-2xl font-bold animate-float" style={{ animationDelay: '2.5s' }}>
                   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" />
@@ -113,13 +113,13 @@ const Skills = () => {
                 
                 {/* Row 3 */}
                 <div className="w-18 h-18 glass-effect rounded-xl flex items-center justify-center text-purple-400 text-2xl font-bold animate-float" style={{ animationDelay: '3s' }}>
-                  <img src="public\img\vscode.png" alt="VS Code" />
+                  <img src="/img/vscode.png" alt="VS Code" />
                 </div>
                 <div className="w-18 h-18 glass-effect rounded-xl flex items-center justify-center text-pink-400 text-2xl font-bold animate-float" style={{ animationDelay: '3.5s' }}>
                   <img src="https://cdn.simpleicons.org/mui/007FFF" alt="Material UI" />
                 </div>
                 <div className="w-18 h-18 glass-effect rounded-xl flex items-center justify-center text-gray-400 text-2xl font-bold animate-float" style={{ animationDelay: '4s' }}>
-                  <img src="public\img\slack.png" alt="slack" />
+                  <img src="/img/slack.png" alt="slack" />
                 </div>
               </div>
 

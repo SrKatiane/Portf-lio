@@ -22,7 +22,7 @@ const About = () => {
             <div className="relative mb-8 flex justify-center lg:justify-start">
               <div className="w-64 h-64 relative">
                 <div className="w-full h-full rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 p-1 animate-pulse-glow">
-                  <img src="public\img\fot.jpg" alt="Katiane Ribeiro" className="w-full h-full rounded-full object-cover" />
+                  <img src="/img/fot.jpg" alt="Katiane Ribeiro" className="w-full h-full rounded-full object-cover" />
                 </div>
                 <div className="absolute -bottom-4 -right-4 w-16 h-16 bg-accent-500 rounded-full flex items-center justify-center text-dark-900 font-bold text-xl animate-bounce">
                   💻
