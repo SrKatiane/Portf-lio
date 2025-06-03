@@ -39,7 +39,7 @@ const Hero = () => {
           </h1>
           
           <h2 className="text-2xl lg:text-3xl text-primary-400 mb-8 font-medium">
-            Desenvolvedor Frontend | UI/UX
+            Dev Frontend | UI/UX
           </h2>
           
           <p className="text-gray-300 text-lg mb-8 max-w-md mx-auto lg:mx-0">
